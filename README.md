@@ -9,7 +9,7 @@
 |01|[데이터 타입](https://github.com/11st-corp/javascript-drilling/discussions/1) | 23.01.04 |
 |02|[DOM](https://github.com/11st-corp/javascript-drilling/discussions/2) | 23.01.11 |
 |03|[실행 컨텍스트](https://github.com/11st-corp/javascript-drilling/discussions/3) | 23.01.18 |
-
+|04|[This](https://github.com/11st-corp/javascript-drilling/discussions/4) | 23.01.25 |
 
 ## ⚡️Members
 
