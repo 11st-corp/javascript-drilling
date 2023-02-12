@@ -12,6 +12,7 @@
 |04|[This](https://github.com/11st-corp/javascript-drilling/discussions/4) | 23.01.25 |
 |05|[콜백 함수](https://github.com/11st-corp/javascript-drilling/discussions/5) | 23.02.01 |
 |06|[클로저](https://github.com/11st-corp/javascript-drilling/discussions/6) | 23.02.08 |
+|07|[프로토타입](https://github.com/11st-corp/javascript-drilling/discussions/7) | 23.02.15 |
 
 ## ⚡️Members
 
