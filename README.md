@@ -15,8 +15,6 @@
 |07|[프로토타입](https://github.com/11st-corp/javascript-drilling/discussions/7) | 23.02.16 |
 |08|[클래스](https://github.com/11st-corp/javascript-drilling/discussions/8) | 23.02.23 |
 
-https://github.com/11st-corp/javascript-drilling/discussions/8
-
 ## ⚡️Members
 
 - [권혁주](https://github.com/huckjoo)
